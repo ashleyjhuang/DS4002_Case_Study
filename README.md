@@ -17,3 +17,14 @@ You will be provided with a code file and 2 cleaned data sets. The code provided
 
 You do not have to use the same variables as the code. In fact, part of the project is to independently analyze specific variables that are important for predicting painting prices. Also, you are free to add onto the dataset with other information you may find through image analysis. There will be no accuracy goal to reach since real-world data can be messy and uninformative. However, do think why your model is behaving the way it is. Other than that, good luck and have fun!
 
+### References to start
+
+* General information about art prices:
+  S. Koegler, “How is Fine Art Priced in Galleries?” Medium.com, Jan. 29, 2022. [Online]. Available: https://medium.com/@scottkoegler/how-is-fine-art-priced-in-galleries-d0bea2a99da0#:~:text=Art%20prices%20are%20notoriously%20opaque%3B%20even%20experts%20can’t,by%20other%20people%20who%20like%20what%20you%20make. [Accessed Dec. 6, 2023].
+
+* General information about MLR:
+  Zach, “How to Plot Multiple Linear Regression Results in R,” Statology.com, Dec. 23, 2020. [Online]. Available: https://www.statology.org/plot-multiple-linear-regression-in-r/. [Accessed Dec. 6, 2023] 
+
+* General information about decision tree regression:
+  Zach, “How to Plot Multiple Linear Regression Results in R,” Statology.com, Dec. 23, 2020. [Online]. Available: https://www.statology.org/plot-multiple-linear-regression-in-r/. [Accessed Dec. 6, 2023] 
+
