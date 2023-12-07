@@ -1,0 +1,15 @@
+Column,Description ,Responses
+Painting_index,Painting index in the dataframe,Numeric
+Artist,The name of the artist,Character 
+Painting_name,Name of the painting,Character
+Estimated_price,The estimated price of the painting,Numeric
+Year,The year that the painting was created,Numeric
+Time_period ,The general time frame of when the painting was created: ,Character (factor variable)
+Materials,Before 1850,Character
+Dimensions ,1850 to 1945,Character 
+Area,Postwar and contemporary ,Numeric
+Image URL,The type of paint and type of canvas,Character
+Image_name ,The length and width of the painting ,Character
+,The area of the painting,
+,The url where the image can be found,
+,The name of the image,
