@@ -11,7 +11,7 @@ Your task for this project is to build a prediction model that estimates the pri
 
 ### What you will have: 
 
-You will be provided with a code file and 2 cleaned data sets. The code provided utilizes multiple linear regression in R. Both files will be located in the GitHub (along with these documents). 
+You will be provided with a code file and 2 cleaned data sets. One for the painting information and one for our image analysis. The code provided utilizes multiple linear regression in R. Both files will be located in the GitHub (along with these documents). 
 
 ### General notes:
 
