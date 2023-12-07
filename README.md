@@ -1,8 +1,9 @@
-# Case Study
+# Building Models From Paint
+## DS4002 Case Study
 
 ### Background: 
 
-As Leonardo DaVinci said, “Painting is poetry that is seen rather than felt”. The price of a painting is not always seen. Pricing for paintings is a nebulous subject, debated even among experts. Some paintings are worth exorbitant amounts of money. Autumn Rhythm, which showcases a novel drip-paint technique, is estimated at $20,000 dollars. On the other hand, Walking in the Mist is worth $1,360 - a small fraction of first price. Therefore, estimating the price of a painting is not as straight-forward as it may seem. Knowing this, the National Gallery of Art wants to come up with a model to predict the general price of a painting given various factors like artist, complexity, location, etc. Beyond the basic information of paintings, the National Gallery of Art is also looking into various image analysis techniques to find any trends with the images themselves and price. This is where you come in.
+As Leonardo DaVinci said, “Painting is poetry that is seen rather than felt”. The price of a painting is not always seen. Pricing for paintings is a nebulous subject, debated even among experts. Some paintings are worth exorbitant amounts of money. Autumn Rhythm, which showcases a novel drip-paint technique, is estimated at $20,000 dollars. On the other hand, Walking in the mist is worth $1,360 - a small fraction of first price. Therefore, estimating the price of a painting is not as straight-forward as it may seem. Knowing this, the National Gallery of Art wants to come up with a model to predict the general price of a painting given various factors like artist, complexity, location, etc. Beyond the basic information of paintings, the National Gallery of Art is also looking into various image analysis techniques to find any trends with the images themselves and price. This is where you come in.
 
 ### Task: 
 
